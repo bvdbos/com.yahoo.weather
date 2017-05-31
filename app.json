@@ -259,12 +259,14 @@
           "temperature",
           "hot",
           "warm",
-          "cold"
+          "cold",
+          "degree"
         ],
         "nl": [
           "temperatuur",
           "warm",
-          "koud"
+          "koud",
+          "graden"
         ]
       }
     },
@@ -342,6 +344,7 @@
     ],
     "nl": [
       "Hoe warm is het buiten?",
+      "Hoeveel graden is het buiten?",
       "Hoe is het weer morgen?",
       "Hoe is het weer in Parijs aankomende vrijdag?",
       "Hoe warm is het in Casablanca?"
